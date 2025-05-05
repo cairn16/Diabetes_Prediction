@@ -88,10 +88,12 @@ Most impactful features:
 ## 👥 Contributors
 
 - **Cairn Correia**   
-  🔗 [LinkedIn: Cairn Correia](www.linkedin.com/in/cairn-correia)
+  🔗 [LinkedIn: Shorn Correia](https://www.linkedin.com/in/cairn-correia)
+  cairncorreia@gmail.com
 
 - **Shorn Correia**   
-  🔗 [LinkedIn: Shorn Correia](www.linkedin.com/in/shorn-correia)
+  🔗 [LinkedIn: Shorn Correia](https://www.linkedin.com/in/shorn-correia)
+  shorncorreia@gmail.com
 
 ---
 
