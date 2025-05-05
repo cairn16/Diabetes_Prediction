@@ -88,8 +88,8 @@ Most impactful features:
 
 ## 👥 Contributors
 
-- **Cairn Correia** – Data Analysis, Machine Learning Models, Dashboard Design  
-- **Shorn Correia** – Data Preprocessing, Visualizations, GitHub Upload
+- **Cairn Correia** 
+- **Shorn Correia** 
 
 ---
 
